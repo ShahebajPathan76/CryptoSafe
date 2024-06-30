@@ -1,8 +1,6 @@
 # Crypto Nest : Your safe haven in the crypto world.
 
-## Our Team: 
-1) Sohail Shaikh
-2) Tauqueer Perwaiz
+Name: Shahebaj Pathan
 
  
 ## API's Used
